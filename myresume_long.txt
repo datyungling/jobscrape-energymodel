@@ -1,0 +1,149 @@
+Summary of Qualifications:
+Dung (Yung) Nguyen is a mechanical engineer, specialized in energy systems, data analytics, and strategic consulting. She has been working for 5+ years, supporting large capital improvement for existing and new construction services specifically with large commercial and industrial type facilities including manufacturing, hospitals, laboratories, and high-rise multifamily buildings. . 
+
+Education:
+Bachelor of Science, B.S. Environmental Engineering (with System Controls Focus), 2014
+Minor: Urban Studies & Planning
+University of California, San Diego, GPA: 3.42
+
+Professsional Certificiations:
+2019 Professional Engineer (PE), California 
+2017 LEED Accreditted Professional (LEED AP)Buliding Design + Construction
+2017 Certified Energy Manager (CEM)– Association of Energy Engineers (AEE)
+2016 Building Energy Modeling Professional (BEMP) Certification - ASHRAE
+2014 Building Performance Analysis Certification – Autodesk Inc. 
+
+Skills: 
+Engineering Software	General Software	Programming & Languages
+IES-VE, Openstudio, Energyplus, Trane Trace 700, eQuest, DesignBuilder, BLCC 5, Autodesk Suite, AutoCAD, Revit, ArcGIS, EnergyPro, CBECC-com, BIN Maker Pro, Building Automation Systems (JCI, Siemens, Automated Logic, Tridium)
+	Microsoft Excel Macro, Microsoft Office Suite (Access, Excel, Publisher, Words, PPT, etc.), Adobe Suite (Illustrator, Photoshop), Microsoft SQL, PI Relational Dabase, OPCSystem	English, Vietnamese, Spanish, Learning Japanese, Java, Python, Webservices (SOAP, Rest), SAP products, VBA, HTML/CSS, Microsft Visual Studio, Eclipse
+Work Experiences:
+
+DNV GL	        2/16, present
+MECHANICAL ENGINEER (40 hrs/week)
+
+Engineer works on multiple concurrent projects including LEED EAp2 technical analysis, net zero energy feasibility analysis, Whole Building Reviews, ASHRAE Level I-III Audits, Measurements & Verifications, and commissioning assistance. Primary tasks include:
+•	Review and approval mechanical engineering designs, calculations, analyses, drawings, and specification for Commercial New Construction Programs for 3-5 major US utilities with projected savings over 1 mil kWh savings per projects 
+•	Prepare project documentation, identify customers’ needs, and generate requirements for new construction design services between 1-2 internal team members and external engineers/architects
+•	Perform energy analysis, energy modeling, and engineering calculation to determine the feasibility of maintenance and repair through energy audits for 3 large manufacturing campuses in Jamaica, Thailand, and United States
+•	Delivered net zero energy feasibilities analysis for 10+ cities and counties on their building operation optimization for municipal buildings including critical mission and public work buildings
+•	Plan and revise work schedules and reporting of energy modeling work among 4 team members
+
+LEED & Net Zero Feasibility Projects       	      
+Engineer supports the energy modeling for EAp2 credit for multifamily projects for large campuses and offices. 
+•	Model two (2) laboratory and office commercial facilities with area over 100,000+ square feet. 
+•	Model over eight (8) high-rise dormitory / multifamily facilities with areas over two million square feet. 
+•	Model an office campus with two (2) major renovation facilities. 
+
+Whole Building Reviews – Michigan, Arizona, Nevada, Ohio	     
+Engineer performs technical reviews a wide range of whole building energy models (TRACE700, EnergyPlus, OpenStudio, Design Builder, eQuest, EnergyPro, CarrierHAP) for New Construction/Major Rennovation Programs to ensure conformance with engineering criteria and energy codes. Engineer to peer review and verify contractor’s large scale energy models with energy savings over 5 million kWh per project, including hotels, multifamily, healthcare, and governmental agency. 
+ 
+ASHRAE Level I & II Audits – Colorado, California, Jamaica, Thailand	    
+Engineer to identify constructions, operations, maintenance, and repair through energy condition assessment for two of Apple’s electronic manufacturing facilities. Engineer supports the field survey of large commercial retail stores and identifies solar gain feasibility. Engineer supports the calculation and report writing for an energy procurement plans of six (6) Jamaica governmental buildings including hospitals, schools, outpatient clinics, and administration buildings. 
+
+Measurement & Verification – New Mexico	    
+Engineer verified the measurement and verification analytical tasks such as performing regression modeling and verifying energy conservation measures (ECMs) calculations. Engineer performs energy modeling to predict energy savings, utilizing Trane Trace and Open Studio.  
+SC Engineers	        10/14 to 1/16
+PROJECT ENGINEER (40 hrs/week)
+
+Project Engineer worked on concurrent projects, coordinating resolutions between contractors, facility managers, and other engineers. Primary project types include Retro-Commissioning (RCx), Monitored-Based Commissioning (MBCx), ASHRAE Level I-II Audits, facility condition assessments, and life cycle cost analysis. Notable projects include:
+
+Retrocommissioning (RCx) – Soutern California	
+Project Engineer responsible for auditing the current conditions and quantifying potential energy savings of a 158,000 SF aerospace equipment testing facility, 500,000+ SF hospital, and 92,000+ SF governmental outpatient medical center. Engineer to communicate with incentive programs to resolve inquiries and concern on completion of facility projects. The resulting initial report reveals expected 20%+ expected savings for electric and 40%+ expected savings for natural gas.
+
+Facility Conditional Assessments - Southern California                                                 
+Project Engineer to support the facility conditions assessment (FCA) report for two (2) medical center over 200,000+ SF and a budget of 2.5 millions. Tasks include interpreting TAB reports, performing energy modeling through EnergyPro, estimating life cycle costs, and putting together final recommendations for capital improvements. Additionally, developed a streamline process to automate life cycle cost reporting from energy modeling simulation outputs.
+
+Pharmaceutical Office Building - Silver Spring, MD	               
+Project Engineer to determine the feasibility of systems integration of a net zero commercial building through reviewing final drawings and specifications. The reviewed systems include Security, Fire Alarms, CCTV, Lighting, Electrical Glass System, Mechanical System, Building Management System and more.
+
+Monitoring-Based Commissioning (MBCx) – San Diego, CA 	   
+Project Engineer solely responsible for site auditing and calculating potential energy savings based on low-cost control measures for two educational facilities located in Mesa and Miramar College. This project is part of the Monitor-Based Commissioning state-wide program for colleges and universities.
+
+San Diego Colleges DDC Network Procedures	   
+Project engineer wrote the naming standards and backup procedures for multiple community college campuses.
+
+[R&D] Dashboard Development - San Diego, CA	  
+Project Engineer solely responsible for the full-stack development of an energy dashboard product to collect data from various metering sources, using primarily Java and Visual Basic.
+Pacific Northwest National Laboratory	          7/14 to 9/14
+SUSTAINABILITY ENGINEER INTERN (40 hrs/week)
+
+Engineering intern working under sustainability engineer responsible for performing functional test on HVAC equipment and auditing lighting/building envelope of specialized laboratories. Developed meter validation method between three (3) metering databases. Prepared energy savings and return on investment cost for energy conservation measures to be presented to facility engineers and managers on a monthly basis.
+
+Duct Inspection - Richland, WA	
+Student Intern supported Fire and Safety engineer to inspect the mechanical duct of a 190,000+ SF physical science facility for acid corrosion.
+
+Functional Performance Testing - Richland, WA	
+Student Intern supported Sustainability Engineer on performing functional tests on all the mechanical system (coils, VAV dampers, chillers, boilers, AHUs, etc.) on a 20,000+ SF special use laboratory facility.
+
+Real-Time Commissioning Reporting - Richland, WA	
+Student intern supported Sustainability Engineer on finding energy conservation measures (ECMs) monthly to present to 20+ building managers and engineers for all of Pacific Northwest National Lab. 
+
+Commercial Blg Lighting Audits - Richland, WA	
+Student intern performed detailed lighting and building envelope audits for one special facility laboratory and one commercial office building.
+UCSD Department of Mechanical Engineering                                        1/14 to 6/14
+TEACHING ASSISTANT (10 hrs/week)
+
+Under Professor Kleissl, teaching assistant was responsible for supervising the senior experimental laboratory class with 60+ students. Continued to become laboratory assistant responsible for mapping power components on campus using ArcGIS and Google Earth.
+
+Under Professor Geno Pawlak, academic reader graded 90+ students’ exams and homework for Transport of Media (upper division Environemntal Engineering class).
+County of San Diego	        11/12 to 6/14
+STUDENT WORKER (40 hrs/week during 3-month summer & various breaks, 10 hrs/week normal school days)
+
+Lead student intern in the Energy & Sustainability Program was responsible for providing technical support for the Program and Project managers. Responsibilities include authoring feasibility reports, assiting finding capital improvement projects, benchmarking over 1000+ county facilities, working with cross-departmental staffs, and supporting on-going projects. Primary projects include: 
+
+Feasibility of EVCS - San Diego, CA	
+Student intern in a team of two (2) surveyed fourteen (14) county sites with licensed electrician to determine the feasibility to install Electrical Vehicle Charging Stations.
+
+Net Zero Energy Feasibility Study - San Diego, CA	
+Student intern in a team of three (2) conducted a net-zero feasibility study of a new construction 13,000+ SF library for the County of San Diego. Developed eQuest model to analyze the different alternative systems and renewable generation potential. The project later became the first net zero facility built by the County of San Diego.
+
+EnergySTAR Benchmarking - San Diego, CA	
+Student intern worked in a team of three (3) to input utility data and other parameters into EnergySTAR using team developed streamline process through Excel VBA coding for over 72 largest County buildings.
+Building Automation System Pilot - San Diego, CA	
+Student Intern in a team of two (2) responsible for creating biweekly energy performance report for a 500,000+ SF detention center for facility managers and engineers. Administered the User Acceptance Testing for facility staff through software testing process. Developed energy reporting procedures for current and future staffs upon deployment of the Building Automation System (BAS) for other county buildings.
+
+Greenhouse Gases Inventory - San Diego, CA	
+Student intern responsible for all aspects to quantify the CO2 emissions related to County operations, including all 1000+ facilities, fleets, water pump stations, landfills, and airports. Eventually developed guidelines for reporting and new procedures to collect data annually from vendors, other departments, and technicians. Assisted Program Manager to write the annual GHG local government report to Departmental Directors and Chief Officers.
+OSIsoft & UC San Diego Sustainability Office                                        6/12 to 9/12
+MECHANICAL ENGINEER INTERN (40 hrs/week) 
+
+Student intern in a group of four (4) responsible for the development of Key Performance Indicator (KPI) from 85,000+ tags of 1 second interval the mechanical and electrical data stream, using the PI system and EnergyPlus baseline. The summer project internship resulted in a patent pending on hierarchical agent controls.
+
+Awards:
+2016 Spot Award – DNV GL
+2016 Young Professional Scholarship – International Building Performance Simulation Association (IBPSA)
+2016 Best Performance Energy Model, DesignBuilder Team - ASHRAE Simbuild 2016 Conference 
+2014 Building Re-tuning Training - PNNL, WA
+2014 "Most Innovative Awards", Better Building Competition - Department of Energy 
+2013 Gordon Scholar - UCSD Jacobs School of Engineering, CA
+2013 IT Innovator awarded by Chief IT Officer - County of San Diego, CA
+2012 Team Internship Program Team Chosen (1 out of 85)  to present at Corporate Forum - UCSD, CA
+2012 Provost Honors - UCSD, CA
+2009 Salutatorian – Mira Mesa High School, CA
+
+Publications and Papers:
+“Lessons Learned from Pursuing ZNE Retrofits for Municipal Facilities through BayREN Program”
+International Building & Performance Simulation Assoctiation, Build Sim 2018.
+
+“Energy Modeling Practices Landscape through the Lense of Web-Scraping”
+International Building & Performance Simulation Assoctiation, Build Sim 2018.
+
+“Proving the High Performance of Highrise Multifamily” 
+International Building & Performance Simulation Assoctiation, Build Sim 2017. 
+
+"Creation and Third Party Verification of Large Governmental Greenhouse Gases Emission Report", 
+Strategic Planning for Energy and the Environment, Association of Energy Engineers 2015.
+
+"Object Oriented Agent-based Hierarchical Control System for Buildings",
+UCSD Intellectual Property Patent filed 2012. 
+
+"Navajo: A Community Study", 
+UCSD Department of Urban Studies & Planning, March 2012.
+
+Organizations:
+2017 International Building Performance Simulation Association (IBPSA) – Equality Committee, Active Officer
+2017 International Building Performance Simulation Association (IBPSA) – San Diego Chapter, Founder
+2016 American Society of Heating, Refrigeration, and Air-Conditioning Engineers – San Diego Chapter, Member
+2014 Association of Energy Engineers – UCSD Chapter, Founder
+2013 Engineers Without Borders – UCSD Chapter, Outreach Coordinator and Advisor

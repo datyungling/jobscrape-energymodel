@@ -1,0 +1,85 @@
+SUMMARY OF QUALIFICATIONS
+Dung (Yung) Nguyen is an energy engineer with 7+ years of experience, working architects, engineers, building owners, government agencies, and utilities on sustainable design strategies and carbon/energy reduction solutions. In her primary role, she is the technical expert on improving complex energy portfolios and large industrial and commercial projects ranging from 50,000 square feet to several million square feet, utilizing her skills in energy modeling, strong knowledge with HVAC energy systems, and data analysis. 
+
+WORK EXPERIENCE
+DNV GL  	Feb 2016 – Apr 2019
+Building Science Engineer, Full-time, 40 hrs/wk	
+	Evaluate building codes and standards policies effectiveness on long term region energy goals for the State of California, the Bay Area municipalities network, and other Public Work/General Services agencies.
+	Conduct energy modelling for new constructions (Title 24 construction permits, Saving by Design Programs and LEED) for multi-million large commercial and industrial projects.
+	Perform building portfolio assessments, benchmarking, energy efficiency calculations, and M&V for multiple campuses 2+ million sq. ft. in Jamaica, Thailand, and within the United States.
+	Provide technical training to utility customers and internal staffs on energy modelling and technical tools.
+	Managed the review of Whole Building New Construction Utility Incentive Programs across 5 states and approved millions of kWh saved utilizing my strong understanding of building energy codes and modeling 
+
+SC ENGINEERS, INC.                                                                                     Oct 2014 – Jan 2016
+Project Engineer, Full-time, 40 hrs/wk	
+	Perform energy saving calculations for ASHRAE Level I-III Audits, Retrocommissioning (RCx) and Monitoring Based Commissioning (MBCx) projects, utilizing Excel/Macro and BMS knowledge.
+	Created DDC control standardization for San Diego community college campuses and Naval Base facilities.
+	Conducted facility conditions assessments, benchmarking, energy calculations, and M&V for multiple colleges and DoD campuses over 2+ million sq. ft to identify capital improvement projects and regional energy plans.
+
+PACIFIC NORTHWEST NATIONAL LABORATORY	July 2014 – Sept 2014
+Sustainability Operations Intern, Full-time, 40 hrs/wk	
+	Audited lighting and building envelope of labs and commercial buildings and performed functional testing on HVAC equipment through trending.
+	Developed meter validation method between 3 metering databases and created controller network drawings using AutoCAD. Prepared ROI and energy savings calculations of small ECM items.
+
+COUNTY OF SAN DIEGO, DEPT. OF GENERAL SERVICES  	Nov 2012 – June 2014
+Energy & Sustainability Intern, Part-time, 10 to 20 hrs/wk	. 
+	Analyzed utility data and real-time data to generated energy reports and led the documentation procedures and calculations of the County’s operations greenhouse gases emissions. 
+	Produced streamline procedures benchmarking County facilities with Energy STAR Portfolio Manager and High-Performance Scorecard which resulted in 300+ hours of time savings. 
+
+OSISOFT & UC SAN DIEGO SUSTAINABILITY OFFICE 	June 2012 – Sept 2012
+Research & Development Intern, Full-time, 40 hrs/wk	
+	Collaborated with a team of 3 to create a naming standard for HVAC assets following IEC 61850 standard for automatic discovery and mapping of points. 
+	Lead for team website and 3D mapping of building energy usage on Google Earth utilizing open source API.
+EDUCATION 
+GEORGIA TECH                                                                                               Sep 2019 to 2022
+MS in Analytics                                                                                            
+UNIVERSITY OF CALIFORNIA SAN DIEGO, JACOBS SCHOOL OF ENGINEERING 	June 2014
+BS in Environmental Engineering, Department of Mechanical and Aerospace Engineering	GPA 3.42
+Minor in Urban Studies & Planning
+ 
+ 
+SKILLS
+Energy Modelling Software
+IES-VE, EnergyPro, CBECC, OpenStudio, EnergyPlus, Trane Trace 700, eQuest, Ecotect, Rhino/ Grasshopper, DIVA, Autodesk Suite
+
+Databases
+Microsoft Access & Sharepoint,OSIsoft PI Relational Database, Microsoft SQL	Other Software
+QGIS, PowerBI, Tableau, Xcelsius (SAP Crystal Dashboard), Excel
+
+Programming Languages
+Python, ASP.NET, VBA, Java, HTML/CSS, Webservices (SOAP, Rest API)
+	Graphical Software
+Adobe Photoshop, Adobe Illustrator, GIMP
+
+Languages
+Fluent English, Fluent Vietnamese, Basic Spanish, Learning Japanese
+
+PUBLICATIONS
+Energy Modeling Practices Landscape through the Lenses of Web-Scraping using Python
+	International Building & Performance Simulation Association, BPACS Conference 2018.
+Lessons Learned from Pursuing ZNE Retrofits for Municipal Facilities through BayREN Program
+	International Building & Performance Simulation Association, BPACS Conference 2018.
+Proving the High Performance of Highrise Multifamily 
+	International Building & Performance Simulation Association, Build Sim 2017.
+Creation and Third-Party Verification of Large Governmental Greenhouse Gases Emission Report
+	Strategic Planning for Energy and the Environment, Association of Energy Engineers 2015
+Object Oriented Agent-based Hierarchical Control System for Buildings
+	UCSD Intellectual Property Patent filed 2012
+Navajo: A Community Study 
+	UCSD Department of Urban Studies & Planning March 2012
+
+AWARDS & HONORS
+	2016 Spot Award – DNV GL
+	2016 Young Professional Scholarship – International Building Performance Simulation Association (IBPSA)
+	2016 Best Performance Energy Model, DesignBuilder Team - ASHRAE Simbuild 2016 Conference 
+	2014 Building Re-Tuning Training - PNNL, WA
+	2014 "Most Innovative Awards", Better Building Competition - Department of Energy 
+	2013 Gordon Scholar - UCSD Jacobs School of Engineering, CA
+	2013 IT Innovator awarded by Chief IT Officer - County of San Diego, CA
+	2012 Team Internship Program Team Chosen (1 out of 85)  to present at Corporate Forum - UCSD, CA
+	2012 Provost Honors - UCSD, CA
+	2009 Salutatorian – Mira Mesa High School, CA
+
+ORGANIZATIONS 
+	International Building Performance Simulation Association: Co-Chair Committee, San Diego Chapter Founder, 2017 to Present 
+	American Society of Heating, Refrigerating, and Air-Conditioning Engineers: Member, 2016 to Present 
